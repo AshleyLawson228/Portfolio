@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: Marketing Research Presentation
-img: img/portfolio/Presentation icon .png
+img: Presentation icon .png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
